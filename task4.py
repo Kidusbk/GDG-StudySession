@@ -16,4 +16,4 @@ word_frequency = word_frequency(sentence)
 
 print("\nWord Frequency:")
 for word, count in word_frequency.items():
-    print(f"{word}: {count}")
+    print(f"{word}: {count}")     
